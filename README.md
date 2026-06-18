@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sohaib Sattar 👋</h1>
+<h1 align="center">Sohaib Sattar</h1>
 <h3 align="center">AI Engineer · Generative AI, Agentic Systems & MLOps</h3>
 
 <p align="center">
@@ -13,18 +13,17 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I build **end-to-end intelligent systems** — from autonomous multi-agent workflows and retrieval-augmented LLM pipelines to production-grade ML services deployed on the cloud.
 
-- 🎓 **BS Computer Science** from **FAST NUCES, Islamabad** (Class of 2026)
-- 🔭 Currently working on **autonomous agents** and **hardware-aware RAG pipelines**
-- 🌱 Open-source contributor to the **[Hive Agentic Framework](https://github.com/adenhq/hive)**
-- ⚡ Fun fact: I once taught a neural network to drive a race car at simulator tick rate
+- **BS Computer Science** from **FAST NUCES, Islamabad**
+- Currently working on **autonomous agents** and **hardware-aware RAG pipelines**
+- Open-source contributor to the **[Hive Agentic Framework](https://github.com/adenhq/hive)**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Generative AI & LLMs**
 <p>
@@ -57,7 +56,7 @@ I build **end-to-end intelligent systems** — from autonomous multi-agent workf
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -67,27 +66,16 @@ I build **end-to-end intelligent systems** — from autonomous multi-agent workf
 | **AI Lead Generation Engine** | Autonomous B2B prospecting pipeline: scrapes LinkedIn, generates hyper-personalized notes with Cohere Command-R-Plus, logs to Google Sheets CRM. | n8n, Cohere, Python |
 | **Agentic Personal Assistant** | Centralized assistant managing Gmail, Calendar, Sheets, Docs, Tasks & SerpAPI search from a single chat interface. | Cohere LLM, n8n, Streamlit |
 
-> 📌 *Pin these on your profile to make them appear at the top for visitors.*
-
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sohaibsattar0016&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibsattar0016&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📫 Let's Connect
+### Let's Connect
 
 I'm open to collaborations on **Agentic AI**, **RAG systems**, and **MLOps** — feel free to reach out:
 
-- 📧 **Email:** sohaib.sattar0016@gmail.com
-- 💼 **LinkedIn:** [sohaib-sattar-9059b4291](https://www.linkedin.com/in/sohaib-sattar-9059b4291)
-- 📱 **Phone:** +92 314 9690138
+- **Email:** sohaib.sattar0016@gmail.com
+- **LinkedIn:** [sohaib-sattar-9059b4291](https://www.linkedin.com/in/sohaib-sattar-9059b4291)
+- **Phone:** +92 314 9690138
 
 <p align="center">
-  <i>"Building the bridge between research-grade AI and real-world products."</i>
+  <i>Building the bridge between research-grade AI and real-world products.</i>
 </p>
